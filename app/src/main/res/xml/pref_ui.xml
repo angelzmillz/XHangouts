@@ -45,12 +45,14 @@
             android:defaultValue="true"
             android:dependency="ui_enable_theming"
             android:key="ui_highlight_unread"
+            android:summary="@string/pref_desc_highlight_unread"
             android:title="@string/pref_title_highlight_unread" />
 
         <CheckBoxPreference
             android:defaultValue="false"
             android:dependency="ui_enable_theming"
             android:key="ui_dark_theme"
+            android:summary="@string/pref_desc_use_dark_theme"
             android:title="@string/pref_title_use_dark_theme" />
 
         <PreferenceScreen

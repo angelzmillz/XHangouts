@@ -111,7 +111,7 @@
     <string name="pref_title_enable_theming">Enable theming</string>
     <string name="pref_desc_enable_theming">Enable all of the theme options or completely disable theming</string>
 
-    <string name="pref_title_ui_app_color">Main app color</string>
+    <string name="pref_title_ui_app_color">Primary color</string>
     <string-array name="pref_ui_app_color_titles">
         <item>Amber</item>
         <item>Blue Grey</item>
@@ -167,18 +167,20 @@
     <string name="pref_title_dark_theme">Dark theme options</string>
     <string name="pref_desc_themes">Change the color of bubbles, text and hyperlinks</string>
 
-    <string name="pref_title_use_dark_theme">Use dark theme</string>
+    <string name="pref_title_use_dark_theme">Dark theme</string>
+    <string name="pref_desc_use_dark_theme">Make Hangouts easier on the eyes</string>
 
     <string name="pref_title_black_backgrounds">Black backgrounds</string>
     <string name="pref_desc_black_backgrounds">Use black backgrounds instead of dark backgrounds</string>
 
     <string name="pref_title_highlight_unread">Highlight unread conversations</string>
+    <string name="pref_desc_highlight_unread">The primary color will be used to highlight unread conversations</string>
 
     <string name="pref_title_ui_theme_bubbles">Theme outgoing bubbles</string>
-    <string name="pref_desc_ui_theme_bubbles">The main app color will be applied to outgoing bubbles</string>
+    <string name="pref_desc_ui_theme_bubbles">The primary color will be applied to outgoing bubbles</string>
 
     <string name="pref_title_ui_theme_hyperlinks">Theme incoming hyperlinks</string>
-    <string name="pref_desc_ui_theme_hyperlinks">The main app color will be applied to incoming hyperlinks</string>
+    <string name="pref_desc_ui_theme_hyperlinks">The primary color will be applied to incoming hyperlinks</string>
 
     <string name="pref_title_outgoing">Outgoing</string>
     <string name="pref_title_incoming">Incoming</string>
